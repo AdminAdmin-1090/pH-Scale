@@ -10,7 +10,8 @@ h1{
     color: #64645A;
     padding: inherit;
     text-align: center;
-    border-end-end-radius: 20px;
+    border-radius: 5px;
+    border
 }
 p{
     padding: 5px;
